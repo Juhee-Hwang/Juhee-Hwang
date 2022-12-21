@@ -13,6 +13,7 @@
 - **[2020.03-2020.08]** OUR SOPT 26th PLAN part
 - **[2021.08-2022.01]** WE SOPT 29th WEB part
 - **[2022.02-2022.08]** THE SOPT 30th Vice President
+- **[2022.11-2023.03]** LIKELION FRONT-END SCHOOL 4th
 
 
 <br>
