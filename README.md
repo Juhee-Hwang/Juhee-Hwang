@@ -40,13 +40,7 @@
 </span>
 
 
-<br>
-
-<h3>🌳 Status</h3>
-
-
-![Juhee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juhee-Hwang&theme=material-palenight&show_icons=true)
-
+<br> 
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:B983FF,100:99FEFF)
           
